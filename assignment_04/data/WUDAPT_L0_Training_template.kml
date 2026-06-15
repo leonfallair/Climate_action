@@ -838,6 +838,21 @@ remarks:</description>
             </outerBoundaryIs>
           </Polygon>
         </Placemark>
+        <Placemark id="LCZ3_03">
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  8.67708834819527,49.4077212841364,0
+                  8.67748135321419,49.404890046476,0
+                  8.68393786423922,49.4058764316765,0
+                  8.68424665389693,49.407648221991,0
+                  8.67708834819527,49.4077212841364,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
       </Folder>
       <Folder>
         <name>4</name>
@@ -891,6 +906,36 @@ remarks:</description>
             </outerBoundaryIs>
           </Polygon>
         </Placemark>
+        <Placemark id="LCZ5_02">
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  8.66838609420502,49.4077943461731,0
+                  8.66848434545975,49.4068445312153,0
+                  8.67004232964187,49.4061412909943,0
+                  8.67183892401405,49.4077212841364,0
+                  8.66838609420502,49.4077943461731,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark id="LCZ5_03">
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  8.67741117374653,49.399638124996,0
+                  8.67437942074347,49.3980578717378,0
+                  8.67756556857539,49.3962035212825,0
+                  8.67930601937344,49.3973271015923,0
+                  8.67741117374653,49.399638124996,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
       </Folder>
       <Folder>
         <name>6</name>
@@ -919,6 +964,36 @@ remarks:</description>
                   8.68814519221593,49.4222514744237,0
                   8.6908327043071,49.4143963874741,0
                   8.67807648494479,49.4132389486471,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark id="LCZ6_02">
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  8.63910722029586,49.4006520179374,0
+                  8.64129681968696,49.3935634631459,0
+                  8.6497744993807,49.395353967886,0
+                  8.65056050941853,49.40408631055,0
+                  8.63910722029586,49.4006520179374,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark id="LCZ6_03">
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  8.64216704508599,49.4217654618696,0
+                  8.64882005862047,49.4237375343339,0
+                  8.65213252949419,49.4186976360547,0
+                  8.64640588493286,49.417364532921,0
+                  8.64216704508599,49.4217654618696,0
                 </coordinates>
               </LinearRing>
             </outerBoundaryIs>
@@ -1087,6 +1162,37 @@ remarks:</description>
                   8.67851014385399,49.4115936848354,0
                   8.68743675933997,49.4122106309556,0
                   8.69593829789805,49.4134019532444,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark id="LCZ_B_02">
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  8.66685618180996,49.4154241639939,0
+                  8.6696212528359,49.4154424266473,0
+                  8.67035111929959,49.4144744966538,0
+                  8.66920017602991,49.4141640244995,0
+                  8.66630878196218,49.4148214926199,0
+                  8.66685618180996,49.4154241639939,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark id="LCZB_03">
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  8.6666596793005,49.4124289968976,0
+                  8.67116520112449,49.4122006992264,0
+                  8.67118625496479,49.4118080247483,0
+                  8.66661055367314,49.4122052651902,0
+                  8.6666596793005,49.4124289968976,0
                 </coordinates>
               </LinearRing>
             </outerBoundaryIs>
