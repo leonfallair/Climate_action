@@ -1,0 +1,19 @@
+# QGIS Generated Color Map Export File
+INTERPOLATION:EXACT
+1,140,0,0,255,Compact High-Rise
+2,209,0,0,255,Compact Mid-Rise
+3,255,0,0,255,Compact Low-Rise
+4,191,77,0,255,Open High-Rise
+5,255,102,0,255,Open Mid-Rise
+6,255,153,85,255,Open Low-Rise
+7,250,238,5,255,Lightweight low-rise
+8,188,188,188,255,Large low-rise
+9,255,204,170,255,Sparsely built
+10,85,85,85,255,Heavy industry
+11,0,106,0,255,Dense trees
+12,0,170,0,255,Scattered trees
+13,100,133,37,255,Bush or scrub
+14,185,219,121,255,Low plants
+15,0,0,0,255,Bare rock or paved
+16,251,247,174,255,Bare soil or sand
+17,106,106,255,255,Water
